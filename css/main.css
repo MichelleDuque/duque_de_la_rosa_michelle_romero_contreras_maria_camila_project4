@@ -1,5 +1,127 @@
+@media screen and (min-width:320px) {
+
+    #main-logo{
+        order: -1;
+    }
+
+    #main-icon1{
+        display: none;
+    }
+    #main-icon2{
+        display: none;
+    }
+    #main-nav{
+        display: none;
+    }
+    #hero-image{
+        height: 529px;
+    }
+    #hero-con{
+        height: 805px;
+        background-color: aqua;
+    }
+    #products{
+        height: 1792px;
+        background-color: rgb(241, 142, 221);
+    }
+    #products h2{
+        height: 88px;
+    }
+    /* #producton-button-1{
+        order: 3; 
+    } */
+    .box-products{
+        height: 383px;
+    }
+    .button-products{
+        height: 58px;
+    }
+    #video-full{
+        height: 775px;
+    }
+}
+
+
 @media screen and (min-width:768px) {
     #main-logo{
         order: -1;
+    }
+    #products{
+        height: 1144px;
+        background-color: rgb(241, 142, 221);
+    }
+    #product-title{
+        height: 88px;
+    }
+    .box-products{
+        height: 294px;
+    }
+    .button-products{
+        height: 58px;
+    }
+    #video-full{
+        height: 788px;
+    }
+
+}
+
+@media screen and (min-width:1200px) {
+    #burger-nav{
+        display: none;
+    }
+    #main-icon1{
+        display: block;
+    }
+    #main-icon2{
+        display: block;
+    }
+    #main-nav{
+        display: block;
+    }
+    #hero-image{
+        height: 505px;
+    }
+    #hero-con{
+        height: 800px;
+        background-color: aqua;
+    }
+    #products{
+        height: 1753px;
+        background-color: rgb(241, 142, 221);
+    }
+    #product-title{
+        height: 136px;
+    }
+    .box-products{
+        height: 451px;
+    }
+    .button-products{
+        height: 90px;
+    }
+    #video-full{
+        height: 972px;
+    }
+}
+
+@media screen and (min-width:1920px) {
+    #hero-image{
+        height: 1299px;
+    }
+    #hero-con{
+        height: 1594px;
+        background-color: aqua;
+    }
+    #products{
+        height: 2063px;
+        background-color: rgb(241, 142, 221);
+    }
+    #product-title{
+        height: 136px;
+    }
+    .box-products{
+        height: 451px;
+    }
+    .button-products{
+        height: 125px;
     }
 }
