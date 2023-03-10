@@ -21,6 +21,7 @@ html {
 body, p, h1, h2, h3, h4, h5 {
    margin: 0px; 
    padding: 0px;
+   font-family: 'Nunito', sans-serif;
 }
 
 /* ---Utility Classes--- */
@@ -30,7 +31,7 @@ body, p, h1, h2, h3, h4, h5 {
 }
 
 .box {
-   background-color: powderblue;
+   background-color: #E2CBAC;
    color: rgb(27, 27, 27);
    border-radius: 5px;
    padding: 20px;
