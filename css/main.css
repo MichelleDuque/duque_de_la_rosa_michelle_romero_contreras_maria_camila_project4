@@ -11,7 +11,7 @@
     /* 1. Main Nav */
 
     #main-header{
-        background-color: azure;
+        background-color: #E09026;
         height: 83px;
     }
 
@@ -43,7 +43,7 @@
     }
     #hero-con{
         height: 805px;
-        background-color: aqua;
+        background-color: #822021;
         align-items: center;
     }
 
@@ -51,7 +51,7 @@
 
     #products{
         height: 1792px;
-        background-color: rgb(241, 142, 221);
+        background-color: #208281;
         align-items: center;
     }
     #products h2{
@@ -76,7 +76,7 @@
     }
     .button-products{
         height: 58px;
-        background-color: blue;
+        background-color: #d94b4b;
         width: 50%;
         border-radius: 5px;
         padding: 20px;
@@ -172,7 +172,7 @@
 
     #products{
         height: 1144px;
-        background-color: rgb(241, 142, 221);
+        background-color: #208281;
     }
     #product-title{
         height: 88px;
@@ -183,7 +183,7 @@
     }
     .button-products{
         height: 58px;
-        background-color: blue;
+        background-color: #d94b4b;
     }
 
     /* 3. Video */
@@ -254,7 +254,7 @@
     /* 1. Main Nav */
 
     #main-header{
-        background-color: azure;
+        background-color: #E09026;
         height: 111px;
     }
 
@@ -288,14 +288,14 @@
     }
     #hero-con{
         height: 800px;
-        background-color: aqua;
+        background-color: #822021;
     }
 
     /* 3. Products */
 
     #products{
         height: 1753px;
-        background-color: rgb(241, 142, 221);
+        background-color: #208281;
     }
     #product-title{
         height: 136px;
@@ -306,7 +306,7 @@
     }
     .button-products{
         height: 90px;
-        background-color: blue;
+        background-color: #d94b4b;
     }
 
     /* 4. Video */
@@ -378,14 +378,14 @@
     }
     #hero-con{
         height: 1594px;
-        background-color: aqua;
+        background-color: #822021;
     }
 
     /* 2. Products */
 
     #products{
         height: 2063px;
-        background-color: rgb(241, 142, 221);
+        background-color: #208281;
     }
     #product-title{
         height: 136px;
@@ -396,7 +396,7 @@
     }
     .button-products{
         height: 125px;
-        background-color: blue;
+        background-color: #d94b4b;
     }
 
     /* 3. History */
