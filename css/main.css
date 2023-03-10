@@ -1,5 +1,15 @@
 @media screen and (min-width:320px) {
 
+    /* CSS Guide
+    1. Main Nav
+    2. Hero Image
+    3. Products
+    4. Video
+    5. History
+    6. Footer */
+
+    /* 1. Main Nav */
+
     #main-header{
         background-color: azure;
         height: 83px;
@@ -25,6 +35,9 @@
     #main-nav{
         display: none;
     }
+
+    /* 2. Hero Image */
+
     #hero-image{
         height: 529px;
     }
@@ -33,6 +46,9 @@
         background-color: aqua;
         align-items: center;
     }
+
+    /* 3. Products */
+
     #products{
         height: 1792px;
         background-color: rgb(241, 142, 221);
@@ -56,20 +72,29 @@
         width: 100%;
         border-radius: 5px;
         margin-bottom: 25px;  
+        padding: 20px;
     }
     .button-products{
         height: 58px;
         background-color: blue;
         width: 50%;
         border-radius: 5px;
+        padding: 20px;
     }
+
+    /* 4. Video */
+
     #video-box{
         padding: 0px;
     }
     #video-full{
         height: 775px;
         margin: 0px;
+        padding: 20px;
     }
+
+    /* 5. History */
+
     #history{
         background-color: brown;
         height: 977px;
@@ -87,13 +112,18 @@
         width: 100%;
         margin-bottom: 20px;
         border-radius: 5px;
+        padding: 20px;
     }
     #button-history{
         height: 49px;
         background-color: bisque;
         width: 50%;
         border-radius: 5px;
+        padding: 20px;
     }
+
+    /* 6. Footer */
+
     footer{
         height: 727px;
         background-color: blanchedalmond;
@@ -125,9 +155,21 @@
 
 @media screen and (min-width:768px) {
 
+    /* CSS Guide
+    1. Main Nav
+    2. Products
+    3. Video
+    4. History
+    5. Footer */
+
+    /* 1. Main Nav */
+
     #main-logo{
         order: -1;
     }
+
+    /* 2. Products */
+
     #products{
         height: 1144px;
         background-color: rgb(241, 142, 221);
@@ -143,9 +185,15 @@
         height: 58px;
         background-color: blue;
     }
+
+    /* 3. Video */
+
     #video-full{
         height: 788px;
     }
+
+    /* 4. History */
+
     #history{
         background-color: brown;
         height: 1200px;
@@ -162,6 +210,9 @@
     #button-history{
         height: 77px;
     }
+
+    /* 5. Footer */
+
     footer{
         height: 634px;
         background-color: blanchedalmond;
@@ -192,6 +243,16 @@
 
 @media screen and (min-width:1200px) {
 
+      /* CSS Guide
+    1. Main Nav
+    2. Hero Image
+    3. Products
+    4. Video
+    5. History
+    6. Footer */
+
+    /* 1. Main Nav */
+
     #main-header{
         background-color: azure;
         height: 111px;
@@ -219,6 +280,9 @@
         height: 111px;
         margin: 0;
     }
+
+    /* 2. Hero Image */
+
     #hero-image{
         height: 505px;
     }
@@ -226,6 +290,9 @@
         height: 800px;
         background-color: aqua;
     }
+
+    /* 3. Products */
+
     #products{
         height: 1753px;
         background-color: rgb(241, 142, 221);
@@ -245,9 +312,15 @@
         height: 90px;
         background-color: blue;
     }
+
+    /* 4. Video */
+
     #video-full{
         height: 972px;
     }
+
+    /* 5. History */
+
     #history{
         background-color: brown;
         height: 891px;
@@ -264,6 +337,9 @@
     #button-history{
         height: 90px;
     }
+
+    /* 6. Footer */
+
     footer{
         height: 481px;
         background-color: blanchedalmond;
@@ -292,6 +368,15 @@
 }
 
 @media screen and (min-width:1920px) {
+
+      /* CSS Guide
+    1. Hero Image
+    2. Products
+    3. History
+    4. Footer */
+
+    /* 1. Hero Image */
+
     #hero-image{
         height: 1299px;
     }
@@ -299,6 +384,9 @@
         height: 1594px;
         background-color: aqua;
     }
+
+    /* 2. Products */
+
     #products{
         height: 2063px;
         background-color: rgb(241, 142, 221);
@@ -314,6 +402,8 @@
         height: 125px;
         background-color: blue;
     }
+
+    /* 3. History */
     #history{
         background-color: brown;
         height: 1086px;
@@ -334,6 +424,9 @@
         height: 124px;
         grid-row: 3/3;
     }
+
+    /* 4. Footer */
+
     footer{
         height: 651px;
         background-color: blanchedalmond;
