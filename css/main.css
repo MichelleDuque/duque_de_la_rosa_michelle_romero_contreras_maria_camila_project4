@@ -406,19 +406,15 @@
     }
     #history-title{
         height: 112px;
-        grid-row: 1/1;
     }
     #history-image{
         height: 548px;
-        grid-row: 2/8;
     }
     #text-history{
         height: 352px;
-        grid-row: 2/2;
     }
     #button-history{
         height: 124px;
-        grid-row: 3/3;
     }
 
     /* 4. Footer */
